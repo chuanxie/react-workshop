@@ -7,6 +7,6 @@
     "json-server": "^0.9.4"
   },
   "scripts": {
-    "intro-server": "json-server --watch intro-server/db.json --port 3004"
+    "dummy-api": "json-server --watch dummy-api-db.json --port 3004"
   }
 }

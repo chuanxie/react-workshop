@@ -108,6 +108,7 @@ http://codepen.io/jackfranklin/pen/xgWgwV?editors=0010
 ### Activity:
 
 - Create a `Comment` component that can take one comment and render it. Update our `Hello` comment to render a series of `Comment` components.
+- Pass through the index of each comment through to the new `<Comment />` component and make it output "1. Some text here".
 
 
 
