@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from 'react'
+import './App.css'
 import {
   BrowserRouter as Router,
   Route,
@@ -33,8 +33,8 @@ class App extends Component {
           </div>
         </Router>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
