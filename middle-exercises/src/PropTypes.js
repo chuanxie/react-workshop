@@ -5,6 +5,7 @@ export default class PropTypesExercise extends Component {
     return (
       <div>
         <HelloPerson />
+        <OtherHelloPerson />
       </div>
     )
   }
@@ -27,3 +28,10 @@ HelloPerson.defaultProps = {
   // EXERCISE: fill this out so that if we don't pass the name prop, it defaults
   // to "JacK" (or your own name, I'm easy!)
 }
+
+const OtherHelloPerson = props => (
+  <p>OtherHello, { props.name }</p>
+)
+
+// EXERCISE: how can we still declare propTypes and default props for functional,
+// stateless components?

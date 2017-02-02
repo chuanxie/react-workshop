@@ -7,9 +7,11 @@ import {
 } from 'react-router-dom'
 
 import PropTypesExercise from './PropTypes'
+import AsyncDataExercise from './AsyncData'
 
 const exercises = [
-  [ 'prop-types', 'PropTypes'],
+  ['prop-types', 'PropTypes', PropTypesExercise],
+  ['async-data', 'Async Data', AsyncDataExercise],
 ]
 
 class App extends Component {
@@ -22,13 +24,25 @@ class App extends Component {
         <Router>
           <div>
             <div className="exercise-select">
-              <ul>{exercises.map(([url, title], index) => {
+              <ul>
+                <li><Link to="/">Home</Link></li>
+                {exercises.map(([url, title], index) => {
                 return <li key={index}><Link to={`/exercise/${url}`}>{title}</Link></li>
               })}</ul>
             </div>
 
             <div className="exercise-item">
-              <Route exact path="/exercise/prop-types" component={PropTypesExercise} />
+              <Route exact path="/" render={() => (
+                <p>Pick an exercise above to work on.</p>
+              )}></Route>
+
+
+              {exercises.map(([url, , component]) => (
+                <Route exact
+                  key={url}
+                  path={`/exercise/${url}`}
+                  component={component} />
+              ))}
             </div>
           </div>
         </Router>
