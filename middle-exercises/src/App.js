@@ -9,12 +9,24 @@ import {
 import PropTypesExercise from './PropTypes'
 import AsyncDataExercise from './AsyncData'
 import AsyncDataUserInputExercise from './AsyncDataUserInput'
+import FunctionsThatReturnComponents from './FunctionsThatReturnComponents'
+import ChildParentCommunication from './ChildParentCommunication'
 
 const exercises = [
   ['prop-types', 'PropTypes', PropTypesExercise],
   ['async-data', 'Async Data', AsyncDataExercise],
   ['async-data-user-input', 'Async Data and User Input', AsyncDataUserInputExercise],
+  ['functions', 'Functions that create components', FunctionsThatReturnComponents],
+  ['child-parent-comms', 'Child Parent Communication', ChildParentCommunication],
 ]
+
+const CustomLink = ({ children, to }) => (
+  <Route path={to} exact children={({ match }) => (
+    <div className={match ? 'active' : ''}>
+      {match ? '> ' : ''}<Link to={to}>{children}</Link>
+    </div>
+  )} />
+)
 
 class App extends Component {
   render() {
@@ -27,9 +39,9 @@ class App extends Component {
           <div>
             <div className="exercise-select">
               <ul>
-                <li><Link to="/">Home</Link></li>
+                <li><CustomLink to="/">Home</CustomLink></li>
                 {exercises.map(([url, title], index) => (
-                  <li key={index}><Link to={`/exercise/${url}`}>{title}</Link></li>
+                  <li key={index}><CustomLink to={`/exercise/${url}`}>{title}</CustomLink></li>
                 ))}
               </ul>
             </div>
