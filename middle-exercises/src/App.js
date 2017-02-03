@@ -8,10 +8,12 @@ import {
 
 import PropTypesExercise from './PropTypes'
 import AsyncDataExercise from './AsyncData'
+import AsyncDataUserInputExercise from './AsyncDataUserInput'
 
 const exercises = [
   ['prop-types', 'PropTypes', PropTypesExercise],
   ['async-data', 'Async Data', AsyncDataExercise],
+  ['async-data-user-input', 'Async Data and User Input', AsyncDataUserInputExercise],
 ]
 
 class App extends Component {
@@ -26,9 +28,10 @@ class App extends Component {
             <div className="exercise-select">
               <ul>
                 <li><Link to="/">Home</Link></li>
-                {exercises.map(([url, title], index) => {
-                return <li key={index}><Link to={`/exercise/${url}`}>{title}</Link></li>
-              })}</ul>
+                {exercises.map(([url, title], index) => (
+                  <li key={index}><Link to={`/exercise/${url}`}>{title}</Link></li>
+                ))}
+              </ul>
             </div>
 
             <div className="exercise-item">
