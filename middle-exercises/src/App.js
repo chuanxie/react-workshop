@@ -16,8 +16,8 @@ const exercises = [
   ['prop-types', 'PropTypes', PropTypesExercise],
   ['async-data', 'Async Data', AsyncDataExercise],
   ['async-data-user-input', 'Async Data and User Input', AsyncDataUserInputExercise],
-  ['functions', 'Functions that create components', FunctionsThatReturnComponents],
   ['child-parent-comms', 'Child Parent Communication', ChildParentCommunication],
+  ['functions', 'Functions that create components', FunctionsThatReturnComponents],
 ]
 
 const CustomLink = ({ children, to }) => (

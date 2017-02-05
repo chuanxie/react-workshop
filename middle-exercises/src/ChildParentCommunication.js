@@ -1,10 +1,17 @@
-import React, { Component } from 'react'
+import React, { Component, PropTypes } from 'react'
 
 
 // note: in our own apps, we'd have each of these components in their own file
 // but for the exercise leave them all in this one!
 
-// make sure you've run `yarn run dummy-api` first!
+// make sure you've got the API running first!
+
+const Post = props => (
+  <p>{props.post.title}</p>
+)
+Post.propTypes = {
+  post: PropTypes.object.isRequired,
+}
 
 export default class ChildParentCommunication extends Component {
   constructor(props) {
@@ -29,7 +36,7 @@ export default class ChildParentCommunication extends Component {
     return (
       <ul>
         { this.state.posts.map(post => (
-          <li key={post.id}><p>{post.title}</p></li>
+          <li key={post.id}><Post post={post} /></li>
         )) }
       </ul>
     )

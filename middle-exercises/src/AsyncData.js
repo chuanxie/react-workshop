@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-// make sure you've run `yarn run dummy-api` first!
+// make sure you've got the API running first!
 
 export default class AsyncDataExercise extends Component {
   constructor(props) {
