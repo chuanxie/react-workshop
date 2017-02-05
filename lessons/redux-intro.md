@@ -17,3 +17,7 @@ The key parts of redux to note:
 your entire app's state is stored in a single object that is called the store.
 to change a state you emit an action, an object describing what happened.
 reducers take an action and produce the new state.
+
+## Counter exercise
+
+Now run `npm run redux-counter-tests`. These are a series of tests for a Redux app that you need to write. Follow the tests and implement the app so all the tests pass.
