@@ -14,7 +14,8 @@
   "scripts": {
     "dummy-api": "json-server --watch dummy-api-db.json --port 3004",
     "middle-exercises": "cd middle-exercises && npm start",
-    "redux-intro-tests": "cd redux-intro && ../node_modules/.bin/jest --watch"
+    "redux-intro-tests": "cd redux-intro && ../node_modules/.bin/jest redux.test.js --watch",
+    "redux-counter-tests": "cd redux-intro && ../node_modules/.bin/jest redux-counter.test.js --watch"
   },
   "devDependencies": {
     "autoprefixer": "6.5.1",
