@@ -1,0 +1,27 @@
+
+.App-header {
+  background-color: #222;
+  height: 40px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.exercise-select {
+  border-bottom: 1px solid #111;
+}
+
+.exercise-item {
+  padding: 20px;
+}
+
+a:link,
+a:visited { color: blue }
+
+.active,
+.active a:link,
+.active a:visited { color: red }
+
