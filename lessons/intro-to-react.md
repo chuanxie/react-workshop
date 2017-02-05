@@ -56,6 +56,15 @@ http://codepen.io/jackfranklin/pen/KaogKV
 ### Activity:
 - Give the `Hello` component another property called `greeting` which defines the greeting to use, rather than it always using `"Hello"`.
 
+## Splat Properties
+
+http://codepen.io/jackfranklin/pen/apKVKO?editors=0010
+
+- If you have an object, you can use the spread/splat syntax to pass a whole object in as individual properties. This is useful if you have a big object that you want to pass into a component.
+
+### Activity:
+- Add another property to the object and output it in the `Hello` component.
+
 ## Stateful components
 
 http://codepen.io/jackfranklin/pen/ygKaOV
