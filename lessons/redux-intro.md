@@ -11,3 +11,9 @@ Run `npm run redux-intro-tests`. This will run some tests on Redux that you can 
 Top tip: any `test('foo')` you can change to `test.only` to only run that test.
 
 Some of the tests pass, but others fail. It's your job to fix them! As you go through each test the examples get more in depth, so be sure to read each carefully. Feel free to break each one or try and change them.
+
+The key parts of redux to note:
+
+your entire app's state is stored in a single object that is called the store.
+to change a state you emit an action, an object describing what happened.
+reducers take an action and produce the new state.
