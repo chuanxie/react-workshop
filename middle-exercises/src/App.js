@@ -11,12 +11,14 @@ import AsyncDataExercise from './AsyncData'
 import AsyncDataUserInputExercise from './AsyncDataUserInput'
 import FunctionsThatReturnComponents from './FunctionsThatReturnComponents'
 import ChildParentCommunication from './ChildParentCommunication'
+import Context from './Context'
 
 const exercises = [
   ['prop-types', 'PropTypes', PropTypesExercise],
   ['async-data', 'Async Data', AsyncDataExercise],
   ['async-data-user-input', 'Async Data and User Input', AsyncDataUserInputExercise],
   ['child-parent-comms', 'Child Parent Communication', ChildParentCommunication],
+  ['context', 'Context', Context],
   ['functions', 'Functions that create components', FunctionsThatReturnComponents],
 ]
 
