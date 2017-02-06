@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 
+// EXERCISE: connect up this component to Redux, so that it can dispatch actions
 export default class AddTodo extends Component {
   constructor(props) {
     super(props)
