@@ -75,6 +75,12 @@ The best way to do this is via _callback props_. This is when we render a compon
 
 In this example we have the `AddNewPost` component that is going to render the form and let the user submit new posts to our API. It will do this by `POST`ing to the API to store the post, and then it will call the callback property so the parent component knows that it has the new post. It can then update its state and render the new post.
 
+## Context
+
+You should nearly always pass properties down to child components using props. Sometimes though, you might want to create a piece of data that is available throughout an entire section of your app, and you might consider using `context` for it.
+
+__Context should be used very, very sparingly.__ Most of the time `context` is useful for third party libraries who want to provide a suite of components that work together - using context for your own random values should be avoided. However, we're going to do this exercise so you're aware of them, because they are used a lot by libraries like Redux and React Router.
+
 ## Functions that return components
 
 After this set of exercises we're going to start using other third party libraries that wrap our components with extra functionality. One pattern we'll see with a library called Redux, is that it provides functions that we should pass components to, and it alters the behaviour of our components with some extra special properties specific to that library.
