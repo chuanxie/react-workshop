@@ -16,7 +16,8 @@
     "middle-exercises": "cd middle-exercises && npm start",
     "redux-react-exercises": "cd redux-react-exercises && npm start",
     "redux-intro-tests": "cd redux-intro && ../node_modules/.bin/jest redux.test.js --watch",
-    "redux-counter-tests": "cd redux-intro && ../node_modules/.bin/jest redux-counter.test.js --watch"
+    "redux-counter-tests": "cd redux-intro && ../node_modules/.bin/jest redux-counter.test.js --watch",
+    "react-router-exercises": "cd react-router-exercises && npm start"
   },
   "devDependencies": {
     "autoprefixer": "6.5.1",
