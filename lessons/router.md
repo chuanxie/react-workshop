@@ -23,3 +23,5 @@ Next up, using the skills you've learned earlier, go to the `Posts` component, a
 Next, go to `SinglePost.js` and make it render a single post from the API based on the ID in the URL.
 
 Finally, can you have a list of all posts, and make it so when you click one it shows below? So at all times you should be able to see a list of posts, and then click one to make it visible. Tip: You'll want to make the Routes not have the `exact` property, so they both render when the URL is `/posts/:id`.
+
+Last up: talk about `Switch` to render 404s. Move the nested posts/:id into the Posts component.
