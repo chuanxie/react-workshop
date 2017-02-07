@@ -7,6 +7,7 @@ import {
 } from 'react-router-dom'
 import Home from './Home'
 import Posts from './Posts'
+import SinglePost from './SinglePost'
 
 class App extends Component {
   render() {
@@ -28,6 +29,7 @@ class App extends Component {
               {/* EXERCISE: add another Route for an "about page" */}
               <Route exact path="/" component={Home} />
               <Route exact path="/posts" component={Posts} />
+              <Route exact path="/posts/:id" component={SinglePost} />
             </div>
           </div>
         </Router>

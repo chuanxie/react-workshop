@@ -19,3 +19,7 @@ Routes take a component to render.
 You'll notice we have two pages, `Home` and `All Posts`. Add a third, `About`, and render a component. It should be present at the `/about` URL.
 
 Next up, using the skills you've learned earlier, go to the `Posts` component, and update it so it renders a list of all the posts from our dummy API.
+
+Next, go to `SinglePost.js` and make it render a single post from the API based on the ID in the URL.
+
+Finally, can you have a list of all posts, and make it so when you click one it shows below? So at all times you should be able to see a list of posts, and then click one to make it visible. Tip: You'll want to make the Routes not have the `exact` property, so they both render when the URL is `/posts/:id`.
