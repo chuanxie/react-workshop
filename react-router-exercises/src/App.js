@@ -25,6 +25,7 @@ class App extends Component {
             </div>
 
             <div className="exercise-item">
+              {/* EXERCISE: add another Route for an "about page" */}
               <Route exact path="/" component={Home} />
               <Route exact path="/posts" component={Posts} />
             </div>

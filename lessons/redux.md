@@ -34,3 +34,25 @@ We'll use the `react-redux` package for this which provides us with two parts:
 
 To run this app locally, run `npm run redux-react-exercises`.
 
+
+## Redux TODOS
+
+In this app we're going to render some todos and a form to add some todos to our local state.
+
+There are three files:
+
+- `reducer.js` which contains the reducer including our initial state, and it can deal with the `NEW_TODO` action
+- `Todos.js` renders the todos in a list and if they are done or not.
+- `AddTodo.js`, which is a form to add a new TODO, but it needs connecting up.
+
+Your job is to:
+
+- connect `AddTodo.js` to the store, so it can call `this.props.dispatch`.
+- Make it so when I fill out the `AddTodo` store, it dispatches the `NEW_TODO` action with the new todo text.
+
+For bonus points:
+
+- add another action, `TOGGLE_TODO`, which changes a TODO between done and not done. Add a button to the UI to allow a TODO to be toggled.
+
+- add another action, and another UI button, that complets every single todo.
+
