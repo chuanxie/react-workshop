@@ -26,3 +26,17 @@ The requirements:
 - It should show me an error if the username does not exist.
 
 Instead of the actual GitHub API, you should use my proxy, http://github-proxy-api.herokuapp.com/users/jackfranklin, which will avoid us being rate limited!
+
+## App Two: lists of Github repos
+
+(You can either just use the previous app and keep going, or start a new one).
+
+Requirements:
+
+You can view a list of repos for Github by going to http://github-proxy-api.herokuapp.com/users/jackfranklin/repos.
+
+You can navigate to a particular page by appending `?page=2` to the above URL.
+
+Build an app that lets me browse through my Github repositories, navigating page by page.
+
+You should use React Router to list the repositories and to enable pagination.

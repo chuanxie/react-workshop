@@ -120,4 +120,14 @@ http://codepen.io/jackfranklin/pen/xgWgwV?editors=0010
 - Pass through the index of each comment through to the new `<Comment />` component and make it output "1. Some text here".
 
 
+## Children
 
+http://codepen.io/jackfranklin/pen/bgmyzX?editors=0010
+
+- React has a special property, `children`, which are the elements inside a React component.
+- Sometimes you want to make a component that can place other components inside it.
+- This is particularly useful for inline styling.
+
+## Activity:
+
+- Rewrite the `WillHaveBlueText` component to be a stateless, functional component.
