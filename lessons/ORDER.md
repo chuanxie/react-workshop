@@ -10,4 +10,5 @@
 3. Middle exercises
 4. Redux
 5. Router
-6. New App
+6. Testing
+7. New Apps
