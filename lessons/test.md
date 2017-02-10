@@ -20,3 +20,5 @@ test('renders correctly', () => {
 ### Testing events
 
 We'll test the Counter component in order to look at how we can test events.
+
+## Exercise: add a decrement button and test it.
