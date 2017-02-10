@@ -4,7 +4,7 @@ In this part of the workshop we will introduce and write our first React compone
 
 ## Intro to React
 
-http://codepen.io/jackfranklin/pen/OWQvvq
+http://codepen.io/jackfranklin/pen/OWQvvq?editors=0010
 
 - React components are really just (for now) functions that can render some data into the DOM.
 - What makes React powerful is that React components are agnostic, and then we have different libraries for rendering to different places (ReactDOM for browser, React Native, and so on)
@@ -16,7 +16,7 @@ http://codepen.io/jackfranklin/pen/OWQvvq
 
 ## JSX
 
-http://codepen.io/jackfranklin/pen/ygKJre
+http://codepen.io/jackfranklin/pen/ygKJre?editors=0010
 
 - The `React.createElement` code is clunky and gets very verbose once you want to render more than one simple element.
 - React also provides this JSX syntax which is very HTML like for creating components and HTML elements.
@@ -30,7 +30,7 @@ http://codepen.io/jackfranklin/pen/ygKJre
 
 ## Composition
 
-http://codepen.io/jackfranklin/pen/ggeMJq
+http://codepen.io/jackfranklin/pen/ggeMJq?editors=0010
 
 - You should aim to keep your components small, and as such often you'll want one component to render another.
 - Here you see we have the `App` component, and the `Hello` component. One component can render another by simply referencing it within JSX.
@@ -40,7 +40,7 @@ http://codepen.io/jackfranklin/pen/ggeMJq
 
 ## Properties
 
-http://codepen.io/jackfranklin/pen/KaogKV
+http://codepen.io/jackfranklin/pen/KaogKV?editors=0010
 
 - Often you will want to customise the behaviour of your components slightly, and you can do this by passing properties (commonly referred to as `props` in React parlance) to a component.
 - In this case we tell the `Hello` component what text to have after the `Hello` text.
@@ -60,7 +60,7 @@ http://codepen.io/jackfranklin/pen/apKVKO?editors=0010
 
 ## Stateful components
 
-http://codepen.io/jackfranklin/pen/ygKaOV
+http://codepen.io/jackfranklin/pen/ygKaOV?editors=0010
 
 - Up until now we've seen that components can be defined as functions, but they can also be defined using classes.
 - You do this when your component needs to do more than take some properties and render, but it needs to handle state.
