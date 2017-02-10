@@ -22,7 +22,8 @@
     "redux-counter-tests": "cd redux-intro && ../node_modules/.bin/jest redux-counter.test.js --watch",
     "react-router-exercises": "cd react-router-exercises && npm start",
     "testing-app": "cd testing-app && npm start",
-    "testing-app-tests": "cd testing-app && ../node_modules/.bin/jest"
+    "testing-app-tests": "cd testing-app && ../node_modules/.bin/jest",
+    "es2015-tests": "cd es2015-exercises && ../node_modules/.bin/jest es2015.test.js --watch"
   },
   "devDependencies": {
     "autoprefixer": "6.5.1",
