@@ -7,10 +7,25 @@ import React, { Component } from 'react'
 3. Render them in the page
 */
 class Posts extends Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      posts: undefined
+    }
+  }
+
+  componentWillMount() {
+    fetch('http://localhost:3004/posts')
+      .then(data => data.json())
+      .then(posts => this.setState({ posts }))
+  }
+
   render() {
     return (
       <div>
         <p>Some posts!</p>
+        { this.state.posts && this.state.posts.map(post => (
+          <li key={post.id}>{post.title}</li>))}
       </div>
     )
   }

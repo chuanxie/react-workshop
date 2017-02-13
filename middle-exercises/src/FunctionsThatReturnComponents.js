@@ -26,14 +26,21 @@ class MyComponent extends Component {
 const wrapWithSpecialProp = function(CustomComponent) {
   const specialSecretValue = 'foo'
   // EXERCISE: can you rewrite the below class into a function?
-  // it's a React component that only has a render method, and therefore
+  // it's a Rex§act component that only has a render method, and therefore
   // can be turned into a component defined as a function
-  return class SpecialComponent extends Component {
-    render() {
-      // EXERCISE: what does {...this.props} do? Remove it and see.
-      return <CustomComponent {...this.props} specialProp={specialSecretValue} />
-    }
-  }
+  return props => (
+    <CustomComponent {...props} specialProp={specialSecretValue} />
+    // <CustomComponent {...{a: 3}} specialProp={specialSecretValue} />
+  )
+
+  // return Fnnn
+
+  // return class SpecialComponent extends Component {
+  //   render() {
+  //     // EXERCISE: what does {...this.props} do? Remove it and see.
+  //     return <CustomComponent {...this.props} specialProp={specialSecretValue} />
+  //   }
+  // }
 }
 
 const WrappedComponent = wrapWithSpecialProp(MyComponent)

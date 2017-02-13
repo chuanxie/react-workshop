@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import AddTodo from './AddTodo'
+import Todo from './Todo'
 
 class Todos extends Component {
   render() {
@@ -10,8 +11,7 @@ class Todos extends Component {
         <ul>
         { this.props.todos.map(todo => (
           <li key={todo.id}>
-            <p>{todo.text}</p>
-            { todo.done ? 'DONE' : 'Not done!' }
+            <Todo todo={todo}/>
           </li>
         )) }
       </ul>

@@ -75,12 +75,6 @@
     ]
   },
   "eslintConfig": {
-    "extends": "react-app",
-    "rules": {
-      "semi": [
-        "error",
-        "never"
-      ]
-    }
+    "extends": "react-app"
   }
 }
