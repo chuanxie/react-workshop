@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="219ca94c-3a99-453b-866c-b5559791cc8f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dummy-api-db.json" afterPath="$PROJECT_DIR$/dummy-api-db.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/es2015-exercises/es2015.test.js" afterPath="$PROJECT_DIR$/es2015-exercises/es2015.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middle-exercises/src/AsyncData.js" afterPath="$PROJECT_DIR$/middle-exercises/src/AsyncData.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middle-exercises/src/AsyncDataUserInput.js" afterPath="$PROJECT_DIR$/middle-exercises/src/AsyncDataUserInput.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middle-exercises/src/ChildParentCommunication.js" afterPath="$PROJECT_DIR$/middle-exercises/src/ChildParentCommunication.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middle-exercises/src/Context.js" afterPath="$PROJECT_DIR$/middle-exercises/src/Context.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middle-exercises/src/FunctionsThatReturnComponents.js" afterPath="$PROJECT_DIR$/middle-exercises/src/FunctionsThatReturnComponents.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middle-exercises/src/PropTypes.js" afterPath="$PROJECT_DIR$/middle-exercises/src/PropTypes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-router-exercises/src/App.js" afterPath="$PROJECT_DIR$/react-router-exercises/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-router-exercises/src/Posts.js" afterPath="$PROJECT_DIR$/react-router-exercises/src/Posts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-router-exercises/src/SinglePost.js" afterPath="$PROJECT_DIR$/react-router-exercises/src/SinglePost.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-intro/redux.test.js" afterPath="$PROJECT_DIR$/redux-intro/redux.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-react-exercises/src/counter/Counter.js" afterPath="$PROJECT_DIR$/redux-react-exercises/src/counter/Counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-react-exercises/src/counter/reducer.js" afterPath="$PROJECT_DIR$/redux-react-exercises/src/counter/reducer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-react-exercises/src/todos/AddTodo.js" afterPath="$PROJECT_DIR$/redux-react-exercises/src/todos/AddTodo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-react-exercises/src/todos/Todos.js" afterPath="$PROJECT_DIR$/redux-react-exercises/src/todos/Todos.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-react-exercises/src/todos/reducer.js" afterPath="$PROJECT_DIR$/redux-react-exercises/src/todos/reducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,72 +19,179 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="intro-to-react.md" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/lessons/intro-to-react.md">
+                <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                  <state split_layout="SPLIT">
+                    <first_editor relative-caret-position="731">
+                      <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="54" />
+                      <folding />
+                    </first_editor>
+                    <second_editor />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="middle-exercises.md" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/lessons/middle-exercises.md">
+                <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                  <state split_layout="SPLIT">
+                    <first_editor relative-caret-position="-91">
+                      <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+                      <folding />
+                    </first_editor>
+                    <second_editor />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-router-exercises/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="About.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-router-exercises/src/About.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SinglePost.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react-router-exercises/src/SinglePost.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-              <folding>
-                <marker date="1486744532000" expanded="true" signature="841:912" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Posts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-router-exercises/src/Posts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dummy-api-db.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dummy-api-db.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.63401836">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="929">
+                    <caret line="455" column="3" lean-forward="false" selection-start-line="455" selection-start-column="3" selection-end-line="455" selection-end-column="3" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="277">
+                  <caret line="25" column="92" lean-forward="true" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="92" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListOfPeople.test.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testing-app/src/ListOfPeople.test.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="reducer.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/counter/reducer.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Todo.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/Todo.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SinglePost.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/react-router-exercises/src/SinglePost.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
+                  <folding>
+                    <marker date="1486744532000" expanded="true" signature="841:912" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="629">
+                  <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AddTodo.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/AddTodo.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="21" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/react-router-exercises/src/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Counter.test.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testing-app/src/Counter.test.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Todos.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/Todos.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="reducer.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/reducer.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="646">
+                  <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -113,7 +205,6 @@
       <find>ContextExercise</find>
       <find>button</find>
       <find>resetForm</find>
-      <find>onNewPost</find>
       <find>only</find>
       <find>store</find>
       <find>Buy Milk</find>
@@ -121,6 +212,13 @@
       <find>reducer</find>
       <find>componentDidMount</find>
       <find>dumm</find>
+      <find>state</find>
+      <find>willM</find>
+      <find>onNewPost</find>
+      <find>specialSecretValue</find>
+      <find>AddNewPost</find>
+      <find>wrapWithSpecialProp</find>
+      <find>WrappedComponent</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,7 +239,6 @@
         <option value="$PROJECT_DIR$/redux-react-exercises/src/counter/Counter.js" />
         <option value="$PROJECT_DIR$/redux-react-exercises/src/counter/reducer.js" />
         <option value="$PROJECT_DIR$/redux-react-exercises/src/todos/Todo.js" />
-        <option value="$PROJECT_DIR$/redux-react-exercises/src/todos/AddTodo.js" />
         <option value="$PROJECT_DIR$/redux-react-exercises/src/todos/Todos.js" />
         <option value="$PROJECT_DIR$/redux-react-exercises/src/todos/reducer.js" />
         <option value="$PROJECT_DIR$/redux-react-exercises/src/ReduxTodos.js" />
@@ -150,6 +247,8 @@
         <option value="$PROJECT_DIR$/react-router-exercises/src/SinglePost.js" />
         <option value="$PROJECT_DIR$/react-router-exercises/src/App.js" />
         <option value="$PROJECT_DIR$/react-router-exercises/src/Posts.js" />
+        <option value="$PROJECT_DIR$/redux-react-exercises/src/todos/AddTodo.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -168,9 +267,10 @@
     <handled-path value="$PROJECT_DIR$/redux-react-exercises/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="x" value="-962" />
+    <option name="y" value="-1168" />
+    <option name="width" value="2603" />
+    <option name="height" value="1162" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -223,61 +323,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="redux-react-exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-workshop-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-workshop-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="redux-react-exercises" />
+              <option name="myItemId" value="testing-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-workshop-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-workshop-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="redux-react-exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="todos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-workshop-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-workshop-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="redux-intro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,10 +405,11 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="post.js&#9;FILE&#9;file:///Users/chuan/Git/react/react-workshop-2/react-router-exercises/src/SinglePost.js&#10;todo&#9;ACTION&#9;ActivateTODOToolWindow" />
+    <property name="SearchEverywhereHistoryKey" value="git&#9;FILE&#9;file:///Users/chuan/Git/react/react-workshop-2/middle-exercises/.gitignore&#10;post.js&#9;FILE&#9;file:///Users/chuan/Git/react/react-workshop-2/react-router-exercises/src/SinglePost.js&#10;todo&#9;ACTION&#9;ActivateTODOToolWindow" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/react-router-exercises/src" />
       <recent name="$PROJECT_DIR$/redux-react-exercises/src/todos" />
     </key>
@@ -439,12 +490,12 @@
       <updated>1486719393309</updated>
       <workItem from="1486719397067" duration="551000" />
       <workItem from="1486720013897" duration="17454000" />
-      <workItem from="1486986750820" duration="22000" />
+      <workItem from="1486986750820" duration="4877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18027000" />
+    <option name="totallyTimeSpent" value="22882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,26 +507,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
+    <frame x="-962" y="-1168" width="2603" height="1162" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114252515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,6 +594,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -554,40 +606,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/ORDER.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/es2015.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/intro-to-react.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="54" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/es2015-exercises/es2015.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -595,6 +618,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -605,24 +629,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle-exercises/src/AsyncData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle-exercises/src/AsyncDataUserInput.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middle-exercises/src/FunctionsThatReturnComponents.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <marker date="1486731755000" expanded="true" signature="170:463" ph="{...}" />
+            <marker date="1486731755000" expanded="true" signature="1016:1208" ph="{...}" />
+            <marker date="1486731755000" expanded="true" signature="1680:1899" ph="..." />
+            <marker date="1486731755000" expanded="true" signature="1947:2888" ph="..." />
+            <marker date="1486731755000" expanded="true" signature="2414:2875" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -630,13 +647,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-intro/redux.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="133" column="33" lean-forward="false" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -644,13 +655,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/counter/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -665,13 +670,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -679,20 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/Todos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/Todo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -704,31 +689,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle-exercises/src/ChildParentCommunication.js">
+    <entry file="file://$PROJECT_DIR$/react-router-exercises/src/Posts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/reducer.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/AddTodo.js">
+    <entry file="file://$PROJECT_DIR$/es2015-exercises/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -749,29 +729,359 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-router-exercises/src/App.js">
+    <entry file="file://$PROJECT_DIR$/middle-exercises/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-router-exercises/src/Posts.js">
+    <entry file="file://$PROJECT_DIR$/middle-exercises/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle-exercises/src/AsyncData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="32" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle-exercises/src/ChildParentCommunication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/middle-exercises.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-91">
+            <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/es2015.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-react-exercises/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1486718628000" expanded="true" signature="8272:8335" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="8301:8333" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9535:9566" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9548:9564" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9672:9737" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="9816:9871" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9829:9869" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11243:11263" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11299:11356" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="11438:11543" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11451:11541" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="12622:12688" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="12721:13008" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="13522:13572" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="13679:13766" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="13976:14016" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="16352:16617" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="16356:16550" ph="//..." />
+              <marker date="1486718628000" expanded="true" signature="18502:18586" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="19536:19822" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="21730:21877" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="21817:21870" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="22019:22045" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="28399:28524" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="28408:28524" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="32481:32548" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="33413:33491" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="33530:33611" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="34456:34534" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="34573:34596" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="35507:35585" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="35623:35813" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="36716:36766" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="37239:37305" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="40013:40074" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="45285:45351" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="50968:51033" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-intro/redux.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="134" column="14" lean-forward="true" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/counter/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/Todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle-exercises/src/FunctionsThatReturnComponents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle-exercises/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/ORDER.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/AddTodo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router-exercises/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="476">
+            <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            <folding>
+              <marker date="1486718628000" expanded="true" signature="8272:8335" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="8301:8333" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9535:9566" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9548:9564" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9672:9737" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="9816:9871" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9829:9869" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11243:11263" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11299:11356" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="11438:11543" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11451:11541" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="12622:12688" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="12721:13008" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="13522:13572" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="13679:13766" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="13976:14016" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="16352:16617" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="16356:16550" ph="//..." />
+              <marker date="1486718628000" expanded="true" signature="18502:18586" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="19536:19822" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="21730:21877" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="21817:21870" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="22019:22045" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="28399:28524" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="28408:28524" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="32481:32548" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="33413:33491" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="33530:33611" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="34456:34534" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="34573:34596" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="35507:35585" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="35623:35813" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="36716:36766" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="37239:37305" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="40013:40074" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="45285:45351" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="50968:51033" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router-exercises/src/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/react-router-exercises/src/SinglePost.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
           <folding>
             <marker date="1486744532000" expanded="true" signature="841:912" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing-app/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1486718628000" expanded="true" signature="8272:8335" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="8301:8333" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9535:9566" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9548:9564" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9672:9737" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="9816:9871" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="9829:9869" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11243:11263" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11299:11356" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="11438:11543" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="11451:11541" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="12622:12688" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="12721:13008" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="13522:13572" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="13679:13766" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="13976:14016" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="16352:16617" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="16356:16550" ph="//..." />
+              <marker date="1486718628000" expanded="true" signature="18502:18586" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="19536:19822" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="21730:21877" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="21817:21870" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="22019:22045" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="28399:28524" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="28408:28524" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="32481:32548" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="33413:33491" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="33530:33611" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="34456:34534" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="34573:34596" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="35507:35585" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="35623:35813" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="36716:36766" ph="..." />
+              <marker date="1486718628000" expanded="true" signature="37239:37305" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="40013:40074" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="45285:45351" ph="{...}" />
+              <marker date="1486718628000" expanded="true" signature="50968:51033" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing-app/src/Counter.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/intro-to-react.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="731">
+            <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="54" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="25" column="92" lean-forward="true" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-react-exercises/src/todos/Todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router-exercises/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing-app/src/ListOfPeople.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="929">
+            <caret line="455" column="3" lean-forward="false" selection-start-line="455" selection-start-column="3" selection-end-line="455" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
