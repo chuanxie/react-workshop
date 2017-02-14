@@ -1,4 +1,4 @@
-# React Workshop 2017 
+# React Workshop 2017
 
 ###JSX
 
@@ -8,7 +8,7 @@ Instead of using `React.createElement` to create HTML elements on the page.
 const App = function() {
   return React.createElement('p', null, 'Hello World')
 }
- 
+
 
 ReactDOM.render(
   React.createElement(App),
@@ -34,7 +34,7 @@ ReactDOM.render(
 const Hello = function(props) {
    return <p>Name: {props.name}, Colour: {props.favouriteColour}, From: {props.from}</p>
  }
- 
+
  const App = function() {
    const bunchOfProps = {
      name: 'Jack',
@@ -53,9 +53,9 @@ const Hello = function(props) {
 
 ###State
 
-React define state in the constructor by setting `this.state`. It has to be an object. 
+React define state in the constructor by setting `this.state`. It has to be an object.
 
-When we want to update the state we use this.setState to do that. 
+When we want to update the state we use this.setState to do that.
 
 `setState` is asynchronous! and we need to set it to `undefined` on constructor.
 
@@ -71,9 +71,9 @@ this.setState((previousState, currentProps) => {
 ```
 
 
-####Rendering: 
+####Rendering:
 
-Always create a new array or object by using `map` or `Object.assign` or similar  
+Always create a new array or object by using `map` or `Object.assign` or similar
 
 ```
 class Hello extends React.Component {
@@ -88,7 +88,7 @@ const App = function() {
     'Pretty great!',
     'The free lunch was the highlight',
   ]
-  
+
   return (
     <div>
       <h1>Welcome to my App</h1>
@@ -101,7 +101,7 @@ const App = function() {
 ### Ref
 
 `ref`: When React mounts the element it will be called and we can do this to give us a hook to a DOM element.
- 
+
 React has `componentDidMount` and `componentWillMount`. Normally we fetch the data in `componentDidMount`
 
 
@@ -114,17 +114,17 @@ class Hello extends React.Component {
     }
     this.onChange = this.onChange.bind(this)
   }
-  
+
   onChange(e) {
     this.setState({
       searchTerm: e.target.value
     })
   }
-  
+
   componentDidMount() {
     this.searchInput.focus()
   }
-    
+
   render() {
     return (
       <div>
@@ -167,9 +167,9 @@ const App = function() {
 }
 ```
 
-###PropTypes 
+###PropTypes
 
-`PostCom` component contains a required props `post` as 
+`PostCom` component contains a required props `post` as
 
 ```
 {
@@ -190,9 +190,9 @@ you can check reference from react:
 https://facebook.github.io/react/docs/typechecking-with-proptypes.html
 
 ###Async Data
- 
+
  fetch data
- 
+
  ```
    componentDidMount() {
      fetch('http://localhost:3004/posts')
@@ -202,12 +202,12 @@ https://facebook.github.io/react/docs/typechecking-with-proptypes.html
        })
    }
  ```
- 
-###Child to Parent Communication 
+
+###Child to Parent Communication
 
 
-One very common pattern in React is that a parent component will have some state and it will pass it down into a child component as a property. 
-Passing `callback` props to child components. That tells the parent that something has changed. 
+One very common pattern in React is that a parent component will have some state and it will pass it down into a child component as a property.
+Passing `callback` props to child components. That tells the parent that something has changed.
 
 
 - In parent component it has `AddNewPost` child component and it will pass the `onNewPost` callback
@@ -239,7 +239,7 @@ Passing `callback` props to child components. That tells the parent that somethi
     })
       .then(newPost => newPost.json())
       .then(newPost => {
-        this.props.onNewPost(newPost) 
+        this.props.onNewPost(newPost)
         this.setState({
           inputValue: ''
         })
@@ -400,7 +400,7 @@ import {
 
 ###Testing
 
-Jest 
+Jest
 
 - Zero configuration testing platform
 - Built-in code coverage reports  `--coverage`
@@ -455,3 +455,42 @@ describe("A suite", function() {
   });
 });
 ```
+
+# Resources
+
+### Tutorials
+https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+https://egghead.io/courses/getting-started-with-redux
+
+### DevTools
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+https://github.com/zalmoxisus/redux-devtools-extension#usage
+
+### Free hosting for FE projects
+http://surge.sh/
+
+### Testing
+http://airbnb.io/enzyme/
+
+### Conditional class names
+https://github.com/JedWatson/classnames
+
+### i18l
+https://github.com/yahoo/react-intl
+
+### React components in angular app
+https://github.com/ngReact/ngReact
+
+### Routing
+https://reacttraining.com/react-router/
+
+### Redux
+https://github.com/redux-saga/redux-saga
+https://github.com/gaearon/redux-thunk
+
+### Type checking
+https://facebook.github.io/react/docs/typechecking-with-proptypes.html
+
+### Context
+https://facebook.github.io/react/docs/context.html
